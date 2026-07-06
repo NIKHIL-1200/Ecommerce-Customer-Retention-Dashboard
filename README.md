@@ -25,4 +25,4 @@ Data sourced from the Kaggle dataset: [eCommerce behavior data from multi-catego
 ![Overview Dashboard](./screenshots/01_Overview_Dashboard.png.png)
 
 ### 2. Customer Cohort Retention Analysis
-![Cohort Analysis Heatmap](./Screenshots/02_Cohort_Analysis_Dashboard.png)
+![Cohort Analysis Heatmap](./screenshots/02_Cohort_Analysis_Dashboard.png.png)
