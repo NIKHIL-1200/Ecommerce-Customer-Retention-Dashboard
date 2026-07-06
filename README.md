@@ -22,7 +22,7 @@ Data sourced from the Kaggle dataset: [eCommerce behavior data from multi-catego
 
 ## Dashboard Previews
 ### 1. Performance & Conversion Overview
-![Overview Dashboard](./Screenshots/01_Overview_Dashboard.png)
+![Overview Dashboard](./screenshots/01_Overview_Dashboard.png.png)
 
 ### 2. Customer Cohort Retention Analysis
 ![Cohort Analysis Heatmap](./Screenshots/02_Cohort_Analysis_Dashboard.png)
