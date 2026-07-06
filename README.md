@@ -28,10 +28,10 @@ Rather than basic historical reporting, this project addresses complex data orch
 ## 🖼️ Dashboard Previews
 
 ### 1. Performance & Conversion Overview
-![Overview Dashboard](./Screenshots/01_Overview_Dashboard.png)
+![Overview Dashboard](./screenshots/01_Overview_Dashboard.png.png)
 
 ### 2. Customer Cohort Retention Analysis
-![Cohort Analysis Heatmap](./Screenshots/02_Cohort_Analysis_Dashboard.png)
+![Cohort Analysis Heatmap](./screenshots/02_Cohort_Analysis_Dashboard.png.png)
 
 ---
 
